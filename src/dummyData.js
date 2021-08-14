@@ -48,3 +48,208 @@ export const userData = [
         "Active User": 5000,
     },
 ];
+
+export const productData = [
+    {
+        name: 'Jan',
+        "Sales": 4000,
+    },
+    {
+        name: 'Feb',
+        "Sales": 6000,
+    },
+    {
+        name: 'Mar',
+        "Sales": 2000,
+    },
+    {
+        name: 'Aprl',
+        "Sales": 1000,
+    },
+];
+
+export const userRows = [
+    {
+        id: 1,
+        username: "Dewa Ari",
+        avatar:
+            "https://cdn.pixabay.com/photo/2015/09/02/12/39/woman-918583_960_720.jpg",
+        email: "dewa@gmail.com",
+        status: "active",
+        transaction: "$20.000"
+    },
+    {
+        id: 2,
+        username: "Dewa Ari",
+        avatar:
+            "https://cdn.pixabay.com/photo/2015/09/02/12/39/woman-918583_960_720.jpg",
+        email: "dewa@gmail.com",
+        status: "active",
+        transaction: "$20.000"
+    },
+    {
+        id: 3,
+        username: "Dewa Ari",
+        avatar:
+            "https://cdn.pixabay.com/photo/2015/09/02/12/39/woman-918583_960_720.jpg",
+        email: "dewa@gmail.com",
+        status: "active",
+        transaction: "$20.000"
+    },
+    {
+        id: 4,
+        username: "Dewa Ari",
+        avatar:
+            "https://cdn.pixabay.com/photo/2015/09/02/12/39/woman-918583_960_720.jpg",
+        email: "dewa@gmail.com",
+        status: "active",
+        transaction: "$20.000"
+    },
+    {
+        id: 5,
+        username: "Dewa Ari",
+        avatar:
+            "https://cdn.pixabay.com/photo/2015/09/02/12/39/woman-918583_960_720.jpg",
+        email: "dewa@gmail.com",
+        status: "active",
+        transaction: "$20.000"
+    },
+    {
+        id: 6,
+        username: "Dewa Ari",
+        avatar:
+            "https://cdn.pixabay.com/photo/2015/09/02/12/39/woman-918583_960_720.jpg",
+        email: "dewa@gmail.com",
+        status: "active",
+        transaction: "$20.000"
+    },
+    {
+        id: 7,
+        username: "Dewa Ari",
+        avatar:
+            "https://cdn.pixabay.com/photo/2015/09/02/12/39/woman-918583_960_720.jpg",
+        email: "dewa@gmail.com",
+        status: "active",
+        transaction: "$20.000"
+    },
+    {
+        id: 8,
+        username: "Dewa Ari",
+        avatar:
+            "https://cdn.pixabay.com/photo/2015/09/02/12/39/woman-918583_960_720.jpg",
+        email: "dewa@gmail.com",
+        status: "active",
+        transaction: "$20.000"
+    },
+    {
+        id: 9,
+        username: "Dewa Ari",
+        avatar:
+            "https://cdn.pixabay.com/photo/2015/09/02/12/39/woman-918583_960_720.jpg",
+        email: "dewa@gmail.com",
+        status: "active",
+        transaction: "$20.000"
+    },
+    {
+        id: 10,
+        username: "Dewa Ari",
+        avatar:
+            "https://cdn.pixabay.com/photo/2015/09/02/12/39/woman-918583_960_720.jpg",
+        email: "dewa@gmail.com",
+        status: "active",
+        transaction: "$20.000"
+    },
+];
+
+export const productRows = [
+    {
+        id: 1,
+        name: "Apple Airpods",
+        img:
+            "https://cdn.pixabay.com/photo/2015/09/02/12/39/woman-918583_960_720.jpg",
+        stock: 1234,
+        status: "active",
+        price: "$20.000"
+    },
+    {
+        id: 2,
+        name: "Apple Airpods",
+        img:
+            "https://cdn.pixabay.com/photo/2015/09/02/12/39/woman-918583_960_720.jpg",
+        stock: 1234,
+        status: "active",
+        price: "$20.000"
+    },
+    {
+        id: 3,
+        name: "Apple Airpods",
+        img:
+            "https://cdn.pixabay.com/photo/2015/09/02/12/39/woman-918583_960_720.jpg",
+        stock: 1234,
+        status: "active",
+        price: "$20.000"
+    },
+    {
+        id: 4,
+        name: "Apple Airpods",
+        img:
+            "https://cdn.pixabay.com/photo/2015/09/02/12/39/woman-918583_960_720.jpg",
+        stock: 1234,
+        status: "active",
+        price: "$20.000"
+    },
+    {
+        id: 5,
+        name: "Apple Airpods",
+        img:
+            "https://cdn.pixabay.com/photo/2015/09/02/12/39/woman-918583_960_720.jpg",
+        stock: 1234,
+        status: "active",
+        price: "$20.000"
+    },
+    {
+        id: 6,
+        name: "Apple Airpods",
+        img:
+            "https://cdn.pixabay.com/photo/2015/09/02/12/39/woman-918583_960_720.jpg",
+        stock: 1234,
+        status: "active",
+        price: "$20.000"
+    },
+    {
+        id: 7,
+        name: "Apple Airpods",
+        img:
+            "https://cdn.pixabay.com/photo/2015/09/02/12/39/woman-918583_960_720.jpg",
+        stock: 1234,
+        status: "active",
+        price: "$20.000"
+    },
+    {
+        id: 8,
+        name: "Apple Airpods",
+        img:
+            "https://cdn.pixabay.com/photo/2015/09/02/12/39/woman-918583_960_720.jpg",
+        stock: 1234,
+        status: "active",
+        price: "$20.000"
+    },
+    {
+        id: 9,
+        name: "Apple Airpods",
+        img:
+            "https://cdn.pixabay.com/photo/2015/09/02/12/39/woman-918583_960_720.jpg",
+        stock: 1234,
+        status: "active",
+        price: "$20.000"
+    },
+    {
+        id: 10,
+        name: "Apple Airpods",
+        img:
+            "https://cdn.pixabay.com/photo/2015/09/02/12/39/woman-918583_960_720.jpg",
+        stock: 1234,
+        status: "active",
+        price: "$20.000"
+    },
+];

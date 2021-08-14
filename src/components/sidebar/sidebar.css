@@ -34,7 +34,7 @@
 }
 
 .sidebarListItem.active,
-.sidebarListItem.hover {
+.sidebarListItem:hover {
   background-color: rgb(240, 240, 255);
 }
 
